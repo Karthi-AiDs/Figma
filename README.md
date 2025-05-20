@@ -1,5 +1,8 @@
 # Ex09 Event Registration Web Application
-# Date: 05.05.2025
+## Date: 20/05/2025
+## Name: KARTHIKEYAN D
+## Regno: 212224230115
+
 # AIM:
 To design, develop and deploy a web application for event registration.
 
